@@ -26,8 +26,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Pesuruh ownerོ" //namabot kalian
-global.ownername= "Ballsstore ×፝֟͜×" //nama kalian
+global.botname = "Bot pesuruh༆ " //namabot kalian
+global.ownername= "REWSTORE ×፝֟͜×" //nama kalian
 global.myweb ="https://chat.whatsapp.com/FLidaU3WDH36GUl8YzSfwr" //bebas asal jan hapus
 global.youtube = "https://youtu.be/NbXV73R1l3c" //bebas asal jan hapus
 global.myweb2 = "https://chat.whatsapp.com/FLidaU3WDH36GUl8YzSfwr" //bebas
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Pesuruh ownerོ' //sticker wm ubah
-global.author = 'Di Buat Oleh Ballsstore×፝֟͜×' //sticker wm ganti nama kalian
+global.packname = '© Bot Pesuruh༆' //sticker wm ubah
+global.author = 'Di Buat Oleh REWSTORE×፝֟͜×' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
